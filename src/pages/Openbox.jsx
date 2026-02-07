@@ -23,7 +23,7 @@ const Openbox = () => {
       return;
     }
 
-    if (formatted === "smile") {
+    if (formatted === "my smile") {
       setStatus("correct");
     } else {
       setStatus("wrong");
